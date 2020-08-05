@@ -20,7 +20,7 @@ disqus_shortname: #disqus shortname
 user:
   name: Maoey
   pic: /assets/img/IMG_0027.jpg
-  picAlt: "Maoey_Home"
+  picAlt: "catbook"
   job: 辣鸡程序员
   aboutme: true # comment this out if you don't need the 'about' page.
 
